@@ -1,21 +1,21 @@
 # 息肉分割
-为了重新评估,所有的模型均重新训练测试：
-CPU: Intel i9-9900K
-GPU: NVIDIA GeForce RTX 2080 Ti
+* 为了重新评估,所有的模型均重新训练测试：
+* CPU: Intel i9-9900K
+* GPU: NVIDIA GeForce RTX 2080 Ti
 
 # 模型比较
-U_Net
-MIA_Net
-Polyp_Segmentation
+* U_Net
+* MIA_Net
+* Polyp_Segmentation
 
 # 依赖安装
-pip install -r requirements.txt
+* pip install -r requirements.txt
 
 # 数据下载
-以下文件权重过大，劳烦手动下载感谢~~
-[![数据集](https://colab.research.google.com/assets/colab-badge.svg)](https://pan.baidu.com/s/1ESD2xBrMHC3OA7QVbsbEkw)[code:zyh1]
-[![骨干网络](https://colab.research.google.com/assets/colab-badge.svg)](https://pan.baidu.com/s/1glbeLchNfhaFzZuEST656A)[code:zyh2]
-[![模型结果](https://colab.research.google.com/assets/colab-badge.svg)](https://pan.baidu.com/s/1GTdqKJg6AZG4aJJXHa54XQ)[code:zyh3]
+* 以下文件权重过大，劳烦手动下载感谢~~
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://pan.baidu.com/s/1ESD2xBrMHC3OA7QVbsbEkw)数据集[code:zyh1]
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://pan.baidu.com/s/1glbeLchNfhaFzZuEST656A)骨干网络[code:zyh2]
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://pan.baidu.com/s/1GTdqKJg6AZG4aJJXHa54XQ)模型结果[code:zyh3]
 
 # 项目结构
 ```
