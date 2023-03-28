@@ -6,7 +6,7 @@
 # 模型比较
 * U_Net
 * MIA_Net
-* Polyp_Segmentation
+* Polyp_PVT
 
 # 依赖安装
 * pip install -r requirements.txt
