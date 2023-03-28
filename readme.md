@@ -13,9 +13,9 @@ pip install -r requirements.txt
 
 # 数据下载
 以下文件权重过大，劳烦手动下载感谢~~
-数据集：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://pan.baidu.com/s/1ESD2xBrMHC3OA7QVbsbEkw)[code:zyh1]
-骨干网络：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://pan.baidu.com/s/1glbeLchNfhaFzZuEST656A)[code:zyh2]
-模型结果：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://pan.baidu.com/s/1GTdqKJg6AZG4aJJXHa54XQ)[code:zyh3]
+[![数据集](https://colab.research.google.com/assets/colab-badge.svg)](https://pan.baidu.com/s/1ESD2xBrMHC3OA7QVbsbEkw)[code:zyh1]
+[![骨干网络](https://colab.research.google.com/assets/colab-badge.svg)](https://pan.baidu.com/s/1glbeLchNfhaFzZuEST656A)[code:zyh2]
+[![模型结果](https://colab.research.google.com/assets/colab-badge.svg)](https://pan.baidu.com/s/1GTdqKJg6AZG4aJJXHa54XQ)[code:zyh3]
 
 # 项目结构
 ```
@@ -52,5 +52,3 @@ pip install -r requirements.txt
 │  │  dataloader.py
 │  │  utils.py
 ```
-
-
